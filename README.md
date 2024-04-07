@@ -13,7 +13,7 @@ ITMO University, Software engineering, 2nd year
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nikhabitmo)](https://github.com/nikhabitmo/leetcode-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2037%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,10 +34,6 @@ Intellijidea             5 hrs 43 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 Windows                  32 hrs 34 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/nikhabitmo/nikhabitmo/master/assets/bar_graph.png)
-
-
- Last Updated on 07/04/2024 22:14:56 UTC
+ Last Updated on 07/04/2024 22:56:25 UTC
 <!--END_SECTION:waka-->
