@@ -1,5 +1,4 @@
 ### Good morning 👋
-[![wakatime](https://wakatime.com/badge/user/018b0a77-acd2-4ff9-a9c5-9e13c6f17c9d.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 ITMO University, Software engineering, 2nd year
 
@@ -34,11 +33,6 @@ Intellijidea             5 hrs 43 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 💻 Operating System: 
 Windows                  32 hrs 34 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/nikhabitmo/nikhabitmo/master/assets/bar_graph.png)
-
 
  Last Updated on 07/04/2024 22:09:01 UTC
 <!--END_SECTION:waka-->
