@@ -22,4 +22,4 @@ jobs:
           SYMBOL_VERSION: 3
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "False"
-        
+          SHOW_LOC_CHART: "False"
