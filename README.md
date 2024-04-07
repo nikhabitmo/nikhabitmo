@@ -34,6 +34,10 @@ Intellijidea             5 hrs 43 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 Windows                  32 hrs 34 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
+**Timeline**
 
- Last Updated on 07/04/2024 22:17:31 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/nikhabitmo/nikhabitmo/master/assets/bar_graph.png)
+
+
+ Last Updated on 07/04/2024 22:14:56 UTC
 <!--END_SECTION:waka-->
