@@ -1,11 +1,10 @@
 ### Good morning 👋
 
-ITMO University, Software engineering, 2nd year
+ITMO University, Software engineering, 3nd year
 
 - 🔭 I’m currently working as backend developer in [Unimetriq](https://www.unimetriq.com/)
-- 💬 Ask me about C#, C++
+- 💬 Ask me about Golang, C++
 - 📫 How to reach me: [gmail](nihabarov@gmail.com) or [telegram](https://tg.com/aderekx)
-- 🤔 Here is my [CV (on RUS)](https://lightning-silk-6ae.notion.site/f10454065c224b73be375f28a48f18c4?pvs=4)
 - 👯 I’m looking to continue my journey in backend dev
 - ⚡ Fun fact: Kanye West enjoyer
 
