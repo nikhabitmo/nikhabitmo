@@ -14,19 +14,6 @@ ITMO University, Software engineering, 3nd year
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2029%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 16/09/2025 03:04:24 UTC
+ Last Updated on 17/09/2025 03:03:44 UTC
 <!--END_SECTION:waka-->
