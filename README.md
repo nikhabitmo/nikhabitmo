@@ -12,8 +12,6 @@ ITMO University, Software engineering, 3nd year
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nikhabitmo)](https://github.com/nikhabitmo/leetcode-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%206%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -28,5 +26,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/07/2026 05:34:24 UTC
+ Last Updated on 24/07/2026 05:29:38 UTC
 <!--END_SECTION:waka-->
