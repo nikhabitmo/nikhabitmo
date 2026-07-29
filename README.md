@@ -16,6 +16,25 @@ ITMO University, Software engineering, 3nd year
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2011%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 28/07/2026 05:25:02 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 29/07/2026 05:31:25 UTC
 <!--END_SECTION:waka-->
