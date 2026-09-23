@@ -1,12 +1,12 @@
 ### Good morning 👋
 
-ITMO University, Software engineering, 3nd year
+ITMO University Software Engineering Bachelor | Master 1st year
 
-- 🔭 I’m currently working as backend developer in [Unimetriq](https://www.unimetriq.com/)
-- 💬 Ask me about Golang, C++
+- Currently working in Yandex as SRE
+- Worked as backend developer in [Unimetriq](https://www.unimetriq.com/) for 2 years
+- Worked as SRE Internship in T-Bank 
 - 📫 How to reach me: [gmail](nihabarov@gmail.com) or [telegram](https://tg.com/aderekx)
-- 👯 I’m looking to continue my journey in backend dev
-- ⚡ Fun fact: Kanye West enjoyer
+- ⚡ Fun fact: Kanye West enjoyer, Manchester United supporter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhabitmo&layout=compact)](https://github.com/nikhabitmo/github-readme-stats)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nikhabitmo)](https://github.com/nikhabitmo/leetcode-stats)
