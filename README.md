@@ -2,7 +2,7 @@
 
 ITMO University Software Engineering Bachelor | Master 1st year
 
-- Currently working in Yandex as SRE
+- Currently working in Yandex Bank as SRE
 - Worked as backend developer in [Unimetriq](https://www.unimetriq.com/) for 2 years
 - Worked as SRE Internship in T-Bank 
 - 📫 How to reach me: [gmail](nihabarov@gmail.com) or [telegram](https://tg.com/aderekx)
