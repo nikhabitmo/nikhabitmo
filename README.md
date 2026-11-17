@@ -6,7 +6,7 @@ ITMO University Software Engineering Bachelor | Master 1st year
 - Had Internship in T-Bank as SRE 
 - Previously worked as backend developer in [Unimetriq](https://www.unimetriq.com/) for 2 years
 - 📫 How to reach me: [gmail](nihabarov@gmail.com) or [telegram](https://tg.com/aderekx)
-- ⚡ Fun fact: Kanye West enjoyer, Manchester United supporter
+- ⚡ Fun fact: Green day enjoyer, Manchester United supporter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhabitmo&layout=compact)](https://github.com/nikhabitmo/github-readme-stats)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nikhabitmo)](https://github.com/nikhabitmo/leetcode-stats)
